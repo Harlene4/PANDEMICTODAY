@@ -1,6 +1,6 @@
 <html>
-<head> <p align=center> <font size= "15"> </head> The Global Pandemic </head> <title> PANDEMIC </title> </font> </center
-><p> <p> <p>
+  <head> <p align=center> <font size= "15"> THE PANDEMIC </head> <title> PANDEMIC TODAY </title> 
+<p> <p> <p>
 <body>
 <center>
 <body bgcolor= "lightpink">
