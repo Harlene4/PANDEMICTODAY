@@ -12,8 +12,8 @@ Researchers are still learning about COVID-19. What IS known is that people infe
   </font> </center>
 <p>
 <p>
-  <img src= "https://media.istockphoto.com/vectors/medical-mask-vector-id1190697682?k=6&m=1190697682&s=612x612&w=0&h=5RlrWhqbEmEzvdJvNeVlRMlzu23n_EJ1lzWaWcvZPAw=" , width = 210 , length = 210>
-<p align="center"> <img src = "https://www.munsonhealthcare.org/media/Image/Kid%20Resources%20About%20Coronavirus%20356x240(1).jpg" , width = 210 , length = 210>
+  <img src= "https://media.istockphoto.com/vectors/medical-mask-vector-id1190697682?k=6&m=1190697682&s=612x612&w=0&h=5RlrWhqbEmEzvdJvNeVlRMlzu23n_EJ1lzWaWcvZPAw=" , width = 210 , length = 210> <br>
+<p align="center"> <img src = "https://www.munsonhealthcare.org/media/Image/Kid%20Resources%20About%20Coronavirus%20356x240(1).jpg" , width = 210 , length = 210> <br>
   </center>
   <p align="right"> <img src= "https://media.istockphoto.com/vectors/medical-mask-vector-id1190697682?k=6&m=1190697682&s=612x612&w=0&h=5RlrWhqbEmEzvdJvNeVlRMlzu23n_EJ1lzWaWcvZPAw=" , width = 210 , length = 210> </img>
   </body>
